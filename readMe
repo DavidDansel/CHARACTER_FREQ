@@ -1,0 +1,3 @@
+The program continues to receive charaters from the STANDARD INPUT until it encounter the ';' character and then prints the frequency of each ot them.
+
+NOTES: newline characters are not counted
